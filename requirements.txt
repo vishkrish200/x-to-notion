@@ -1,5 +1,6 @@
 twikit
 python-dotenv
 requests
+tweepy
 
 
